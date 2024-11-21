@@ -1,0 +1,22 @@
+.primero{
+    background-color: #ADD8E6;
+    position: relative; /* mueve el elemento a partir de su pocision original*/
+    left: 20px;
+    top: 30px;
+
+}
+
+.segundo{
+    background-color: #90ee90;
+    right: 30px;
+    bottom: 20px;
+    position: absolute;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+
